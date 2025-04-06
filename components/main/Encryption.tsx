@@ -61,7 +61,11 @@ const Encryption = () => {
           src="/encryption.webm/"
         />
       </div>
+
+      
+
     </div>
+    
   );
 };
 
